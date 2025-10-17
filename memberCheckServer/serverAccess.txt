@@ -1,1 +1,1 @@
-ALLOW
+NOT ALLOW
