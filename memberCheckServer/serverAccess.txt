@@ -1,1 +1,9 @@
-ALLOW
+_ALLOW_
+Welcome, this software is for testing purpose only, don't use it for production.
+If any error occurs or need source code, please contact the app developer.
+-Thank you 
+Ashikur Rahman
++88 01737513080
+tomal123bd@gmail.com
+github.com/tomal123bd
+facebook.com/tomal123
