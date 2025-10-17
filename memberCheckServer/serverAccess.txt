@@ -1,4 +1,4 @@
-_DENY_
+_ALLOW_
 Welcome, this software is for testing purpose only, don't use it for production.
 If any error occurs or need source code, please contact the app developer.
 -Thank you 
