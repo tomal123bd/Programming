@@ -1,8 +1,10 @@
 _ALLOW_
-Welcome, this software is for testing purpose only, don't use it for production.
+Software version : 1.0.1
+Welcome, this software is for testing purpose only, don't use it for final production or reporting.
 If any error occurs or need source code, please contact the app developer.
 -Thank you 
 Ashikur Rahman
+BRAC Microfinance (Progoti-Review, North Division)
 +88 01737513080
 tomal123bd@gmail.com
 github.com/tomal123bd
