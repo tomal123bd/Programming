@@ -1,6 +1,6 @@
 Server Message >>> _ALLOW_
 Software version : 1.0.1
-This software is for testing purpose only, don't use it for final production or reporting.
+This software is for testing purposes only, don't use it for final production or reporting.
 If any error occurs or need source code, please contact the app developer.
 -Thank you 
 Ashikur Rahman
