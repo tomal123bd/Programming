@@ -11,5 +11,5 @@ github.com/tomal123bd
 facebook.com/tomal123
 
 Note:
-* Only 12 months installment will work in this system.
-* Wrong posting from accounts may create date related issues.
+* Only general 12 months installment loan will work in this system.
+* Wrong posting / adjustment from accounts may create date related issues.
