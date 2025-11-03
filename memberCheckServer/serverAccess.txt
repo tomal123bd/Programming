@@ -9,3 +9,7 @@ BRAC Microfinance (Progoti-Review, North Division)
 tomal123bd@gmail.com
 github.com/tomal123bd
 facebook.com/tomal123
+
+Note:
+* Only 12 months installment will work in this system.
+* Wrong posting from accounts may create date related issues.
