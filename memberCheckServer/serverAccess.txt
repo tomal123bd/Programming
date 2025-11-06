@@ -1,4 +1,4 @@
-Server Message >>> _ALLOW_
+Server Message >>> _ALLOW_(memberCheck), _ALLOW_(multipleNumCheck)
 Software version : 1.0.2
 This software is for testing purposes only, don't use it for final production or reporting.
 If any error occurs or need source code, please contact the app developer.
