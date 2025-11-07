@@ -1,5 +1,5 @@
 Server Message >>> _ALLOW_(memberCheck), _ALLOW_(multipleNumCheck)
-Software version : 1.0.2
+Software version : 1.1.2
 This software is for testing purposes only, don't use it for final production or reporting.
 If any error occurs or need source code, please contact the app developer.
 -Thank you 
@@ -13,3 +13,4 @@ facebook.com/tomal123
 Note:
 * Only general 12-month (24% reducing method) installment loans will work in this system.
 * Wrong posting / adjustment from accounts may create date related issues.
+* Loan portfolio files have checked from year 2021.
