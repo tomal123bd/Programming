@@ -11,6 +11,6 @@ github.com/tomal123bd
 facebook.com/tomal123
 
 Note:
-* Only general 12-month (24% reducing method) installment loans will work in this system.
+* Only general 12-month (24% reducing method) installment loans will work in this system. Others loan (ex: Money plant, Prottasa, Job Holders loan over 12-month , Goti loan etc) must be avoided.
 * Wrong posting / adjustment from accounts may create date related issues.
-* Loan portfolio files have checked from year 2021.
+* Loan portfolio files for od-previous transactions have checked from year 2021.
