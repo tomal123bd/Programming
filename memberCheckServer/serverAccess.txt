@@ -15,3 +15,4 @@ Note:
 * Wrong posting / adjustment from accounts may create date related issues.
 * Loan portfolio files for od-previous transactions have checked from year 2021.
 * Over advance should be checked (current loan within previous loan period).
+* Member details extracted by following format:
